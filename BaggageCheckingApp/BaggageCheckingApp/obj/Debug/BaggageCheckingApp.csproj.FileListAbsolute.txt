@@ -1,0 +1,5 @@
+E:\VisualStudioProjects\BaggageCheckingApp\BaggageCheckingApp\bin\BaggageCheckingApp.dll
+E:\VisualStudioProjects\BaggageCheckingApp\BaggageCheckingApp\bin\BaggageCheckingApp.pdb
+E:\VisualStudioProjects\BaggageCheckingApp\BaggageCheckingApp\obj\Debug\BaggageCheckingApp.csprojResolveAssemblyReference.cache
+E:\VisualStudioProjects\BaggageCheckingApp\BaggageCheckingApp\obj\Debug\BaggageCheckingApp.dll
+E:\VisualStudioProjects\BaggageCheckingApp\BaggageCheckingApp\obj\Debug\BaggageCheckingApp.pdb

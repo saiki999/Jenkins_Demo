@@ -1,0 +1,5 @@
+E:\VisualStudioProjects\WebServiceGetDetailsByID\WebServiceGetDetailsByID\bin\WebServiceGetDetailsByID.dll
+E:\VisualStudioProjects\WebServiceGetDetailsByID\WebServiceGetDetailsByID\bin\WebServiceGetDetailsByID.pdb
+E:\VisualStudioProjects\WebServiceGetDetailsByID\WebServiceGetDetailsByID\obj\Debug\WebServiceGetDetailsByID.csprojResolveAssemblyReference.cache
+E:\VisualStudioProjects\WebServiceGetDetailsByID\WebServiceGetDetailsByID\obj\Debug\WebServiceGetDetailsByID.dll
+E:\VisualStudioProjects\WebServiceGetDetailsByID\WebServiceGetDetailsByID\obj\Debug\WebServiceGetDetailsByID.pdb

@@ -1,0 +1,12 @@
+﻿@model MvcRegistrationApplication.Models.UserAccount
+
+@{
+    ViewBag.Title = "LoggedIn";
+}
+
+@if (Session["userId"] != null)
+{ 
+<h4>hello @Session["userName"].ToString()</h4> // session variables
+
+}
+<h2>LoggedIn</h2>

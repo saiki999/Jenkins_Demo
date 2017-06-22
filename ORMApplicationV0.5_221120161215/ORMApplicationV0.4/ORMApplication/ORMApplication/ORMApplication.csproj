@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C76AADF3-70B8-4251-A045-775DBFF2A54B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ORMApplication</RootNamespace>
+    <AssemblyName>ORMApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClsVariables.cs" />
+    <Compile Include="frmConference.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConference.Designer.cs">
+      <DependentUpon>frmConference.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConferenceListing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConferenceListing.Designer.cs">
+      <DependentUpon>frmConferenceListing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDashBoard.Designer.cs">
+      <DependentUpon>frmDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepartment.Designer.cs">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDesignation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDesignation.Designer.cs">
+      <DependentUpon>frmDesignation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployee.Designer.cs">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLeave.Designer.cs">
+      <DependentUpon>frmLeave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLeaveConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLeaveConfig.Designer.cs">
+      <DependentUpon>frmLeaveConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLeaveListing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLeaveListing.Designer.cs">
+      <DependentUpon>frmLeaveListing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoginpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginpage.Designer.cs">
+      <DependentUpon>frmLoginpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProject.Designer.cs">
+      <DependentUpon>frmProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRoomConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRoomConfig.Designer.cs">
+      <DependentUpon>frmRoomConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRooms.Designer.cs">
+      <DependentUpon>frmRooms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSkillSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSkillSet.Designer.cs">
+      <DependentUpon>frmSkillSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSkillSetConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSkillSetConfig.Designer.cs">
+      <DependentUpon>frmSkillSetConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTeamListing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTeamListing.Designer.cs">
+      <DependentUpon>frmTeamListing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTeamMapping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTeamMapping.Designer.cs">
+      <DependentUpon>frmTeamMapping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTechnology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTechnology.Designer.cs">
+      <DependentUpon>frmTechnology.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTechnologyConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTechnologyConfig.Designer.cs">
+      <DependentUpon>frmTechnologyConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserDashBoard.Designer.cs">
+      <DependentUpon>frmUserDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmConference.resx">
+      <DependentUpon>frmConference.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConferenceListing.resx">
+      <DependentUpon>frmConferenceListing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDashBoard.resx">
+      <DependentUpon>frmDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDepartment.resx">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDesignation.resx">
+      <DependentUpon>frmDesignation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployee.resx">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLeave.resx">
+      <DependentUpon>frmLeave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLeaveConfig.resx">
+      <DependentUpon>frmLeaveConfig.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLeaveListing.resx">
+      <DependentUpon>frmLeaveListing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoginpage.resx">
+      <DependentUpon>frmLoginpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProject.resx">
+      <DependentUpon>frmProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRoomConfig.resx">
+      <DependentUpon>frmRoomConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRooms.resx">
+      <DependentUpon>frmRooms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkillSet.resx">
+      <DependentUpon>frmSkillSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkillSetConfig.resx">
+      <DependentUpon>frmSkillSetConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTeamListing.resx">
+      <DependentUpon>frmTeamListing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTeamMapping.resx">
+      <DependentUpon>frmTeamMapping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTechnology.resx">
+      <DependentUpon>frmTechnology.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTechnologyConfig.resx">
+      <DependentUpon>frmTechnologyConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserDashBoard.resx">
+      <DependentUpon>frmUserDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

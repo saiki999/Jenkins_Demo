@@ -1,0 +1,5 @@
+c:\users\saikiran\documents\visual studio 2012\Projects\ASP.Net_WebService\ConsumingCalcWebServicce\bin\ConsumingCalcWebServicce.dll
+c:\users\saikiran\documents\visual studio 2012\Projects\ASP.Net_WebService\ConsumingCalcWebServicce\bin\ConsumingCalcWebServicce.pdb
+c:\users\saikiran\documents\visual studio 2012\Projects\ASP.Net_WebService\ConsumingCalcWebServicce\obj\Debug\ConsumingCalcWebServicce.csprojResolveAssemblyReference.cache
+c:\users\saikiran\documents\visual studio 2012\Projects\ASP.Net_WebService\ConsumingCalcWebServicce\obj\Debug\ConsumingCalcWebServicce.dll
+c:\users\saikiran\documents\visual studio 2012\Projects\ASP.Net_WebService\ConsumingCalcWebServicce\obj\Debug\ConsumingCalcWebServicce.pdb

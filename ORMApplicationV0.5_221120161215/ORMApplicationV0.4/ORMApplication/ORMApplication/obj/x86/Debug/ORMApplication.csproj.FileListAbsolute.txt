@@ -1,0 +1,127 @@
+F:\Practice\ORMApplication\ORMApplication\bin\Debug\ORMApplication.exe
+F:\Practice\ORMApplication\ORMApplication\bin\Debug\ORMApplication.pdb
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDepartment.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDesignation.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmEmployee.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeave.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeaveConfig.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmProject.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmRoomConfig.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmRooms.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmSkillSet.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmSkillSetConfig.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTeamMapping.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTechnology.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTechnologyConfig.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.Properties.Resources.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.csproj.GenerateResource.Cache
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.exe
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.pdb
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTeamListing.resources
+F:\Practice\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDashBoard.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\bin\Debug\ORMApplication.exe
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\bin\Debug\ORMApplication.pdb
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmConference.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmConferenceListing.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDashBoard.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDepartment.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDesignation.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmEmployee.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeave.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeaveConfig.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeaveListing.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLoginpage.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmProject.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmRoomConfig.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmRooms.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmSkillSet.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmSkillSetConfig.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTeamListing.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTeamMapping.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTechnology.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTechnologyConfig.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmUserDashBoard.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.Properties.Resources.resources
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.csproj.GenerateResource.Cache
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.exe
+D:\ms projects\Orginization Management System\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.pdb
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.exe
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.pdb
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\bin\Debug\ORMApplication.exe
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\bin\Debug\ORMApplication.pdb
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmConference.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmConferenceListing.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDashBoard.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDepartment.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDesignation.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmEmployee.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeave.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeaveConfig.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeaveListing.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLoginpage.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmProject.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmRoomConfig.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmRooms.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmSkillSet.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmSkillSetConfig.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTeamListing.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTeamMapping.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTechnology.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTechnologyConfig.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmUserDashBoard.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.Properties.Resources.resources
+E:\full\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.csproj.GenerateResource.Cache
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.exe
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.pdb
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\bin\Debug\ORMApplication.exe
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\bin\Debug\ORMApplication.pdb
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.csprojResolveAssemblyReference.cache
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmConference.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmConferenceListing.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDashBoard.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDepartment.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDesignation.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmEmployee.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeave.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeaveConfig.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeaveListing.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLoginpage.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmProject.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmRoomConfig.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmRooms.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmSkillSet.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmSkillSetConfig.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTeamListing.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTeamMapping.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTechnology.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTechnologyConfig.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmUserDashBoard.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.Properties.Resources.resources
+E:\project final_22_11_16\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.csproj.GenerateResource.Cache
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.exe
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.pdb
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\bin\Debug\ORMApplication.exe
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\bin\Debug\ORMApplication.pdb
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.csprojResolveAssemblyReference.cache
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmConference.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmConferenceListing.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDashBoard.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDepartment.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmDesignation.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmEmployee.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeave.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeaveConfig.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLeaveListing.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmLoginpage.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmProject.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmRoomConfig.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmRooms.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmSkillSet.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmSkillSetConfig.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTeamListing.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTeamMapping.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTechnology.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmTechnologyConfig.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.frmUserDashBoard.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.Properties.Resources.resources
+E:\Project\project final_22_11_16_backup\ORMApplicationV0.5_221120161215\ORMApplicationV0.4\ORMApplication\ORMApplication\obj\x86\Debug\ORMApplication.csproj.GenerateResource.Cache

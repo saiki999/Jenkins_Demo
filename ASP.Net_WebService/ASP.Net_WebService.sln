@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.Net_WebService", "ASP.Net_WebService\ASP.Net_WebService.csproj", "{B457DE48-4086-4209-A964-5BCA4C85FA1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumingCalcWebServicce", "ConsumingCalcWebServicce\ConsumingCalcWebServicce.csproj", "{A92D15B2-C27D-41AB-9C6A-2060DADC51EB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B457DE48-4086-4209-A964-5BCA4C85FA1B} = {B457DE48-4086-4209-A964-5BCA4C85FA1B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B457DE48-4086-4209-A964-5BCA4C85FA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B457DE48-4086-4209-A964-5BCA4C85FA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B457DE48-4086-4209-A964-5BCA4C85FA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B457DE48-4086-4209-A964-5BCA4C85FA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92D15B2-C27D-41AB-9C6A-2060DADC51EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92D15B2-C27D-41AB-9C6A-2060DADC51EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92D15B2-C27D-41AB-9C6A-2060DADC51EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92D15B2-C27D-41AB-9C6A-2060DADC51EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
